@@ -3,3 +3,4 @@ print ("salam");
 print (hello)
 print ("PRIVET");
 print ("hello my dear friend");
+Print ("ewe allo");
