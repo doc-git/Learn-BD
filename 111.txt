@@ -1,2 +1,4 @@
 print ("hello world");
 print ("salam");
+print (hello)
+print ("PRIVET");
